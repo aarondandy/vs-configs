@@ -6,8 +6,8 @@ In late 2012 my work finally decided to upgrade from VS2008... to VS2010. I made
 
 There are two files in this directory for the dark theme:
 
-- `VS2012-Dark-for-2010-with-RSharp7.vssettings`: Text editor colors
-- `2012-Dark-for-2010.vstheme`: IDE chrome (window) colors
+- [VS2012-Dark-for-2010-with-RSharp7.vssettings](https://raw.github.com/aarondandy/vs-configs/master/vs2010/VS2012-Dark-for-2010-with-RSharp7.vssettings): Text editor colors
+- [2012-Dark-for-2010.vstheme](https://raw.github.com/aarondandy/vs-configs/master/vs2010/2012-Dark-for-2010.vstheme): IDE chrome (window) colors
 
 You import the `.vssettings` file into Visual Studio using the Tools -> Import and Export Settings... menu option. Of course do backup (export) your current settings to be safe before you import mine. This will set the text editor colors.
 
