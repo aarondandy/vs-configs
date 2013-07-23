@@ -1,0 +1,27 @@
+.syntaxhighlighter {background-color:#1E1E1E !important;}
+.syntaxhighlighter .line.alt1 {background-color:#1E1E1E !important;}
+.syntaxhighlighter .line.alt2 {background-color:#1E1E1E !important;}
+.syntaxhighlighter .line.highlighted.alt1, .syntaxhighlighter .line.highlighted.alt2 {background-color:#0F0F0F !important;}
+.syntaxhighlighter .line.highlighted.number { color:#282828 !important;}
+.syntaxhighlighter table caption { color:#282828 !important;}
+.syntaxhighlighter .gutter { color: #2B91AF !important;}
+.syntaxhighlighter .gutter .line {border-right: 3px solid #1E1E1E !important;}
+.syntaxhighlighter .gutter .line.highlighted { background-color: #1E1E1E !important; color: #2B91AF !important; }
+.syntaxhighlighter.printing .line .content { border: none !important; }
+.syntaxhighlighter.collapsed { overflow: visible !important; }
+.syntaxhighlighter.collapsed .toolbar { color: #808080 !important; background: #1E1E1E !important; border: 1px solid #808080 !important; }
+.syntaxhighlighter.collapsed .toolbar a {color: #808080 !important;}
+.syntaxhighlighter.collapsed .toolbar a:hover {color: #808080 !important;}
+.syntaxhighlighter .toolbar { color: #DCDCDC !important; background: #1E1E1E !important; border: none !important; }
+.syntaxhighlighter .toolbar a {color: #DCDCDC !important; }
+.syntaxhighlighter .toolbar a:hover { color: #DCDCDC !important; }
+.syntaxhighlighter .plain, .syntaxhighlighter .plain a { color: #DCDCDC !important; }
+.syntaxhighlighter .comments, .syntaxhighlighter .comments a { color: #608B4E !important; }
+.syntaxhighlighter .string, .syntaxhighlighter .string a { color: #D69D85 !important; }
+.syntaxhighlighter .keyword { color: #569CD6 !important; }
+.syntaxhighlighter .preprocessor { color: #9B9B9B !important; }
+.syntaxhighlighter .variable { color: #DCDCDC !important; }
+.syntaxhighlighter .value { color: #DADADA !important; }
+.syntaxhighlighter .functions { color: #DCDCDC !important; }
+.syntaxhighlighter .constants { color: #DADADA !important; }
+.syntaxhighlighter .script { font-weight: bold !important; color: #808080 !important; background-color: none !important; }
